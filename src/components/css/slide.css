@@ -1,0 +1,15 @@
+.slide {
+    position: absolute;
+}
+
+.desc {
+    position: absolute;
+    bottom: 10px;
+    left: 42%;
+}
+
+.desc > h,
+.desc > h3 {
+    color: #fff;
+    font-weight: 600;
+}

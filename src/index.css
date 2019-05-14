@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.slide-container {
+  position: relative;
+  margin: 0 auto;
+  width: 1280px;
+  height: 720px;
+}
+
+/* .slide {
+  position: absolute;
+}
+
+.prev, .next {
+  color: #fff;
+  font-size: 50px;
+  text-decoration: none;
+  margin-top: -50px;
+  padding: 15px;
+  background-color: transparent;
+  transition: all 1s;
+}
+
+.prev:hover, .next:hover {
+  background-image: #000;
+}
+
+.prev {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+}
+
+.next {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+} */
